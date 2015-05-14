@@ -1,0 +1,8 @@
+{
+  "name": "react-native-remote-push",
+  "version": "1.0.0",
+  "repository":
+    { "type" : "git",
+      "url" : "https://github.com/slkuo230/react-native-remote-push"
+    }
+}
